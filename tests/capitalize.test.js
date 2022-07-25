@@ -1,4 +1,3 @@
-// eslint-disable-next-line import/extensions
 import capitalize from '../src/capitalize.js';
 
 if (capitalize('hello') !== 'Hello') {
